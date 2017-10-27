@@ -1,2 +1,0 @@
-Hoy comenzamos a Realizar todos los procedimientos correspondientes al juego en python.
-todabia no hemos decidio que IDE utilizaremos. La historia Toma rumbo la cual luego será adaptada al tipo de juego elegido.
